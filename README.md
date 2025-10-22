@@ -93,11 +93,11 @@ define('JWT_SECRET', 'generate_strong_random_secret_here');
 ## 🚪 Truy cập hệ thống
 URL: [http://your-domain/](http://your-domain/)
 
-### 🔑 Thông tin đăng nhập mặc định
-| Trường | Giá trị |
-|---------|----------|
-| **Username** | `admin` |
-| **Password** | `admin123` |
+### 🔑 Tạo tài khoản admin
+Chạy lệnh sau trên terminal
+```bash
+php <Đường dẫn tới folder của bạn>\create_admin.php
+```
 
 > ⚠️ **QUAN TRỌNG:** Hãy thay đổi mật khẩu admin ngay sau lần đăng nhập đầu tiên!
 
