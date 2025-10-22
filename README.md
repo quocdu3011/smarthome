@@ -99,7 +99,7 @@ Chạy lệnh sau trên terminal
 php <Đường dẫn tới folder của bạn>\create_admin.php
 ```
 
-> ⚠️ **QUAN TRỌNG:** Hãy thay đổi mật khẩu admin ngay sau lần đăng nhập đầu tiên!
+> ⚠️ **QUAN TRỌNG:** Chỉ có thể truy cập đường dẫn trên qua CLI
 
 ---
 
